@@ -11,9 +11,10 @@ setup(
     author_email='marchetto.marcelo@gmail.com',
 
     py_modules=['enigma_sigma'],
-    # install_requires=[
-    #     'Numpy',
-    # ],
+    install_requires=[
+        'Numpy',
+        
+    ],
 
     
 )
