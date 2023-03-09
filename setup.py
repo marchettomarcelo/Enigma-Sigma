@@ -1,14 +1,14 @@
 from setuptools import setup
 
-from my_pip_package import __version__
+from enigma_sigma import __version__
 
 setup(
-    name='my_pip_package',
+    name='enigma_sigma',
     version=__version__,
 
     url='https://github.com/marchettomarcelo/Enigma-Sigma',
     author='Marcelo Marchetto e João Alfredo Lamy',
     author_email='marchetto.marcelo@gmail.com',
 
-    py_modules=['my_pip_package'],
+    py_modules=['enigma_sigma'],
 )
