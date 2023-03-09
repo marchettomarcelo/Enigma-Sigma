@@ -12,7 +12,7 @@ setup(
 
     py_modules=['enigma_sigma'],
     install_requires=[
-        'numpy',
+        'numpy>=1.24.2',
     ],
 
     
