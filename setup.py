@@ -10,10 +10,6 @@ setup(
     author='Marcelo Marchetto e João Alfredo Lamy',
     author_email='marchetto.marcelo@gmail.com',
 
-    py_modules=['enigma_sigma'],
-    install_requires=[
-        'Numpy',
-    ],
+    install_requires=['numpy>=1.21.5'] 
 
-    setup_requires=['Numpy'],
 )
