@@ -13,8 +13,7 @@ setup(
     py_modules=['enigma_sigma'],
     install_requires=[
         'Numpy',
-        
     ],
 
-    
+    setup_requires=['Numpy'],
 )
