@@ -1,4 +1,3 @@
-__version__ = "0.0.2"
 import numpy as np
 
 alf = 'abcdefghijklmnopqrstuvwxyvç ,ãé'
