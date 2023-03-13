@@ -8,7 +8,6 @@ Instalação
 Este módulo pode ser instalado via pip. Para instalar o módulo, execute o seguinte comando:
 
 ```
-pip install numpy
 pip install git+https://github.com/marchettomarcelo/Enigma-Sigma
 ```
 Uso
